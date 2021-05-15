@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802976848322",
+    "project_id": "flash-chat-aaf38",
+    "storage_bucket": "flash-chat-aaf38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802976848322:android:70c7fc36e196f3d4f45e5b",
+        "android_client_info": {
+          "package_name": "co.mwishart.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802976848322-e0dm85ht0lo5r8fqc63rg8vqjt243kou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswTFD0Z6bBoO_pw6v3G4Mbwxjmd8mjSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802976848322-e0dm85ht0lo5r8fqc63rg8vqjt243kou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
